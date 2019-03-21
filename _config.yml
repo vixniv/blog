@@ -32,7 +32,7 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               "vixnivblog"
+  id:               "vixniv"
 
 # URL
 url:                "https://vixniv.github.io" # the base hostname & protocol for your site
